@@ -1,0 +1,19 @@
+{
+  "name": "catwalk-static",
+  "version": "0.1.0",
+  "description": "Static Content for Catwalk Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/download/catwalk-static.git"
+  },
+  "author": "Stijn de Witt",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/download/catwalk-static/issues"
+  },
+  "homepage": "https://github.com/download/catwalk-static#readme"
+}
